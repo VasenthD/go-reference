@@ -14,8 +14,8 @@ currentTime := time.Now()
 currentTime := time.Now()
 year := currentTime.Year()
 
-// the current year will be stored in the year variable
-but it will not be in the string formate it will be INT formate so 
+*the current year will be stored in the year variable
+*but it will not be in the string formate it will be INT formate so 
 
 currentTime := time.Now()
 	year := currentTime.Year()
