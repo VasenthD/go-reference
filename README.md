@@ -1,4 +1,8 @@
 # Time in go
+To get the current time in Go, you can use the `time.Now()` function:
+
+```go
+currentTime := time.Now()
 
 currentTime := time.Now()
 
